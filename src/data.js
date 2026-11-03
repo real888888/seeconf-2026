@@ -537,6 +537,7 @@ export const partners = [
   { name: '开源江湖', logo: 'https://mdn.alipayobjects.com/huamei_m96plz/afts/img/IVGSRIjfq6oAAAAAQ2AAAAgADiiDAQFr/fmt.avif', link: '', hideName: true },
   { name: '极星会', logo: 'https://mdn.alipayobjects.com/huamei_m96plz/afts/img/HMQGS4WP8WIAAAAAQMAAAAgADiiDAQFr/fmt.avif', link: 'https://www.gitfund.cn', hideName: true },
   { name: 'AiWork', logo: 'https://mdn.alipayobjects.com/huamei_m96plz/afts/img/HZGBSKacAOIAAAAAQzAAAAgADiiDAQFr/original', link: 'https://aiwork.dtagi.cn/', hideName: true },
+  { name: 'QMuse', logo: 'https://mdn.alipayobjects.com/huamei_eyqazd/afts/img/xKQ6QpslSfIAAAAAQzAAAAgADlqOAQJr/fmt.avif', link: 'https://qmuse.cn/', hideName: true },
 ]
 
 // 往届回顾
